@@ -1,0 +1,6 @@
+[submodule "libs/some_library"]
+	path = libs/some_library
+	url = git://github.com/miechuliv/some_library.git
+[submodule "libs/some_library2"]
+	path = libs/some_library2
+	url = git://github.com/miechuliv/some_library2.git
